@@ -1,5 +1,4 @@
 import streamlit as st
-from transformers import pipeline
 # Use Hugging Face or OpenAI to generate contextual questions
 from openai import OpenAI
 
